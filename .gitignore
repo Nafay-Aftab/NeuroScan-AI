@@ -1,0 +1,15 @@
+# --- Ignore Data (Too large for GitHub) ---
+data/
+MRI_images/
+
+# --- Ignore Virtual Environment ---
+venv/
+env/
+.env
+
+# --- Ignore System Junk ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
